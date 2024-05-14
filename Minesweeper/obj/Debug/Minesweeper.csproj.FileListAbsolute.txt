@@ -1,0 +1,15 @@
+C:\Users\Q11069\Documents\Projekte\C#\Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe.config
+C:\Users\Q11069\Documents\Projekte\C#\Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe
+C:\Users\Q11069\Documents\Projekte\C#\Minesweeper\Minesweeper\bin\Debug\Minesweeper.pdb
+C:\Users\Q11069\Documents\Projekte\C#\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csproj.AssemblyReference.cache
+C:\Users\Q11069\Documents\Projekte\C#\Minesweeper\Minesweeper\obj\Debug\MainWindow.g.cs
+C:\Users\Q11069\Documents\Projekte\C#\Minesweeper\Minesweeper\obj\Debug\App.g.cs
+C:\Users\Q11069\Documents\Projekte\C#\Minesweeper\Minesweeper\obj\Debug\Minesweeper_MarkupCompile.cache
+C:\Users\Q11069\Documents\Projekte\C#\Minesweeper\Minesweeper\obj\Debug\Minesweeper_MarkupCompile.lref
+C:\Users\Q11069\Documents\Projekte\C#\Minesweeper\Minesweeper\obj\Debug\MainWindow.baml
+C:\Users\Q11069\Documents\Projekte\C#\Minesweeper\Minesweeper\obj\Debug\Minesweeper.g.resources
+C:\Users\Q11069\Documents\Projekte\C#\Minesweeper\Minesweeper\obj\Debug\Minesweeper.Properties.Resources.resources
+C:\Users\Q11069\Documents\Projekte\C#\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csproj.GenerateResource.cache
+C:\Users\Q11069\Documents\Projekte\C#\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csproj.CoreCompileInputs.cache
+C:\Users\Q11069\Documents\Projekte\C#\Minesweeper\Minesweeper\obj\Debug\Minesweeper.exe
+C:\Users\Q11069\Documents\Projekte\C#\Minesweeper\Minesweeper\obj\Debug\Minesweeper.pdb
